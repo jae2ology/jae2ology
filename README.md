@@ -1,8 +1,8 @@
 # 💫 about me!
 🌱 I’m a student at Georgia Southern University!
 <br>🔭 I’m double majoring in Computer Science and Software Engineering, with a concentration in Big Data and Analytics! :)
-<br>👯 On campus, I work as an Engineering Ambassador!<br>
-<br>🤔 I plan on getting a PHD in Computer Science and Electrical Engineering to focus on ML and Robotics!<br>
+<br>👯 I am a McNair Scholar currently doing research on proactive assistance using ML and CV in robots!<br>
+<br>🤔 I plan on getting a PHD in Computer Science to focus on ML and Robotics!<br>
 <br>📫 You can reach me just about anywhere! (Linkedin, Handshake, Github, etc!) 
 
 
